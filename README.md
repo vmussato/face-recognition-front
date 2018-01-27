@@ -5,6 +5,5 @@
 - npm start;
 
 #### TODO:
-- Fix htmlFor error;
 - Add multiple face recognition;
 - Deploy to github-pages;

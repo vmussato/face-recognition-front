@@ -2,6 +2,8 @@ import React from 'react';
 import './ImageLinkForm.css';
 
 const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
+	//Add enter to submit
+
 	return (
 		<div>
 			<p className='f3'>

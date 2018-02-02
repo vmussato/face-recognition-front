@@ -1,6 +1,6 @@
 import React from 'react';
 
-
+//TODO Add onEnter event
 class Register extends React.Component {
 	constructor(props) {
 		super(props);
